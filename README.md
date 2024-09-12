@@ -10,7 +10,7 @@ A simple password generator built using HTML, CSS, and JavaScript. This tool gen
 
 ## Demo
 
-You can view a live demo of the password generator [here](#). *(Replace with your live demo link)*
+You can view a live demo of the password generator 
 
 ## Getting Started
 
@@ -56,7 +56,19 @@ To use this password generator locally, follow these steps:
 
 Here's a basic example of how the password generator looks:
 
-![Password Generator Example](example-image.png) *(Replace with your actual screenshot)*
+![Screenshot 2024-09-12 140736](https://github.com/user-attachments/assets/4a493b3e-8482-47aa-ba4d-80653dbfb36b)
+
+
+![Screenshot 2024-09-12 140717](https://github.com/user-attachments/assets/3c10ba30-8fc4-4e46-8677-ff231b02d962)
+
+
+![Screenshot 2024-09-12 140637](https://github.com/user-attachments/assets/b0547065-5546-44b0-96b9-9b6eac313bc5)
+
+
+![Screenshot 2024-09-12 140600](https://github.com/user-attachments/assets/443fd156-41c7-4356-bce2-80536549dd6a)
+
+
+![Screenshot 2024-09-12 140655](https://github.com/user-attachments/assets/401ddb17-cf6c-4ef5-a944-81c6ff4f3abc)
 
 ## Contributing
 
