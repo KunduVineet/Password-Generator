@@ -8,10 +8,6 @@ A simple password generator built using HTML, CSS, and JavaScript. This tool gen
 - Include/exclude uppercase letters, lowercase letters, numbers, and special characters
 - Easy-to-use interface
 
-## Demo
-
-You can view a live demo of the password generator 
-
 ## Getting Started
 
 To use this password generator locally, follow these steps:
